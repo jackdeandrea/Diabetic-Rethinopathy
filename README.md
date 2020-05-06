@@ -1,6 +1,6 @@
 
 ## Diabetic retinopathy screening w/ Tensorflow
-Me, Giacomo Deandrea, and my fellow student Giulio Quaglia realized this notebooks as a part of the Data Mining, statistical modeling and machine learning course (https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=52ce)_ of the Physics of Complex Systems master degree held at University of Turin.
+Me, Giacomo Deandrea, and my fellow student Giulio Quaglia realized this notebooks as a part of the Data Mining, statistical modeling and machine learning course (https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=52ce) of the Physics of Complex Systems master degree held at University of Turin.
 
 In particular the two notebooks refer to two different approaches used for didactic purposes:
 ProvaCNN is a 'test notebook' we used to gain confidence in the tools we were about to learn, in particular keras' directory iterators and generators, how to correctly preprocess image data and so on. The CNN used was only something to try our data on.
