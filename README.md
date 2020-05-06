@@ -1,5 +1,5 @@
 
-## Diabetic retinopathy screening w/ Tensorflow
+## Diabetic retinopathy screening with Tensorflow
 Me, Giacomo Deandrea, and my fellow student Giulio Quaglia realized this notebooks as a part of the Data Mining, statistical modeling and machine learning course (https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=52ce) of the Physics of Complex Systems master degree held at University of Turin.
 
 In particular the two notebooks refer to two different approaches used for didactic purposes:
